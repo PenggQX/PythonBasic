@@ -3,7 +3,7 @@ git push -u origin master
 查看状态
 git status
 
-添加到暂存区asdf
+添加到暂存区
 git add 
 提交
 git commit
