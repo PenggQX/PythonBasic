@@ -7,3 +7,6 @@ git status
 git add 
 提交
 git commit
+
+查看log
+git log
